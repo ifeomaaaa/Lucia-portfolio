@@ -5,6 +5,7 @@ Data science projects worked on
 - Scraped over 500 Twitter comments to posts about Kim x Beats by Dre collaboration using tweepy Python
 - Analysed Instagram comments to the same post for subjectivity and polarity 
 - Proved difference in sentiment for the campaign on each platform
+![](https://github.com/ifeomaaaa/Lucia-portfolio/blob/main/images/download%20(1).png)
 
 # [Project 2: Fashion and beauty sentiment](https://github.com/ifeomaaaa/fashion-sentiments)
 - Scraped different replies to various tweets about fashion rental apps and combined into single file to compared polarity and subjectivity
