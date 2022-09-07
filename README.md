@@ -13,7 +13,6 @@ Data science projects worked on
 - Grouped sentiment according to user's displayed location
 - Visualised positive sentiment for eBay's collaboration with Love Island
 ![](https://github.com/ifeomaaaa/Lucia-portfolio/blob/main/images/1660660579694.png)
-![](https://github.com/ifeomaaaa/Lucia-portfolio/blob/main/images/1661471679978.png)
 
 # [Project 3: Global events that affect marketing campaigns](https://github.com/ifeomaaaa/B_CW_WS)
 - Scraped 5000 tweets about Beyonce's renaissance album to visualise tweet frequency per second and per minute
