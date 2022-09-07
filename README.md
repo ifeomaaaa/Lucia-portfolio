@@ -17,6 +17,7 @@ Data science projects worked on
 # [Project 3: Global events that affect marketing campaigns](https://github.com/ifeomaaaa/B_CW_WS)
 - Scraped 5000 tweets about Beyonce's renaissance album to visualise tweet frequency per second and per minute
 - Scraped similar tweets about Common Wealth Games to compare tweet frequency per senconf and per minute to tweets about Beyonce
+- Customised bee shaped wordcloud
 ![](https://github.com/ifeomaaaa/Lucia-portfolio/blob/main/images/1659459319029.png)
 ![](https://github.com/ifeomaaaa/Lucia-portfolio/blob/main/images/1659460330866.png)
 
