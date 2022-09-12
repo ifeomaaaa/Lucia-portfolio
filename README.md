@@ -5,7 +5,7 @@ Data science projects worked on
 
  [Twitter recommendation bot](https://twitter.com/IfeomaBot)
 - Built a list of 500 book recommendations
-- Programmd twitter bot using python to auto-tweet one book recommendation from list every six hours
+- Programmed twitter bot using python to auto-tweet one book recommendation from list every six hours
 - Hosted bot on Heroku server to run 24/7
 
 
