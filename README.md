@@ -1,7 +1,7 @@
 # Lucia-portfolio
 Data science projects worked on
 
-# Automation ptojects
+# Automation projects
 
  [Twitter recommendation bot](https://twitter.com/IfeomaBot)
 - Built a list of 500 book recommendations
