@@ -1,7 +1,7 @@
 # Lucia-portfolio
 Data science projects
 
-#Predictive modelling projects 
+# Predictive modelling projects 
 
 [Melissa's wardrobe impression analysis](https://github.com/ifeomaaaa/influencer_analysis)
 - Scraped infleuncer instagram posts for impression analysis
