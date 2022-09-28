@@ -4,7 +4,7 @@ Data science projects
 # Supervised learning projects 
 
 [Melissa's wardrobe impression analysis](https://github.com/ifeomaaaa/influencer_analysis)
-- Scraped infleuncer instagram posts for impression analysis
+- Scraped influencer instagram posts for impression analysis
 - Used feature engineering to build model for predicting future impressions
 
 
