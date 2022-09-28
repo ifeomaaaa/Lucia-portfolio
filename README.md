@@ -1,11 +1,15 @@
 # Lucia-portfolio
 Data science projects
 
-# Predictive modelling projects 
+# Supervised learning projects 
 
 [Melissa's wardrobe impression analysis](https://github.com/ifeomaaaa/influencer_analysis)
 - Scraped infleuncer instagram posts for impression analysis
 - Used feature engineering to build model for predicting future impressions
+
+
+# Unsupervised learning projects 
+- Performed topic modelling on tweets about Marks and Spencer
 
 # Automation projects
 
