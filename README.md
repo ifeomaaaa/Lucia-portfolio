@@ -35,6 +35,5 @@ Data science projects
 
  [Analysing social media events](https://github.com/ifeomaaaa/B_CW_WS)
 - Scraped 5000 tweets about Beyonce's renaissance album to visualise tweet frequency per second and per minute
-- Scraped similar tweets about Common Wealth Games to compare tweet frequency per senconf and per minute to tweets about Beyonce
-- Customised bee shaped wordcloud
+- Scraped similar tweets about Common Wealth Games to compare tweet frequency per sencond and per minute to tweets about Beyonce
 
