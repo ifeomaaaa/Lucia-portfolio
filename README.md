@@ -9,6 +9,7 @@ Data science projects
 
 
 # Unsupervised learning projects 
+[Marks and Sparks](https://github.com/ifeomaaaa/clustering)
 - Performed topic modelling on tweets about Marks and Spencer
 
 # Automation projects
