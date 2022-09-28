@@ -1,5 +1,5 @@
 # Lucia-portfolio
-Data science projects worked on
+Data science projects
 
 #Predictive modelling projects 
 
