@@ -1,18 +1,22 @@
 # Lucia-portfolio
 Data science projects
 
-# Supervised learning projects 
+# [Web application](https://ifeomaaaa-easy-edit-app-main-huhykr.streamlitapp.com/)
+- Scripted a text-to-speech converter in python with a Nigerian localised accent
+- Deployed app on streamlit
+
+# Supervised learning  
 
 [Melissa's wardrobe impression analysis](https://github.com/ifeomaaaa/influencer_analysis)
 - Scraped influencer instagram posts for impression analysis
 - Used feature engineering to build model for predicting future impressions
 
 
-# Unsupervised learning projects 
+# Unsupervised learning  
 [Marks and Sparks](https://github.com/ifeomaaaa/clustering)
 - Performed topic modelling on tweets about Marks and Spencer
 
-# Automation projects
+# Automation 
 
  [Twitter recommendation bot](https://twitter.com/IfeomaBot)
 - Built a list of 500 book recommendations
@@ -20,7 +24,7 @@ Data science projects
 - Hosted bot on Heroku server to run 24/7
 
 
-# Sentiment analysis projects
+# Sentiment analysis 
 
  [Twitter vs Instagram difference in sentiment](https://github.com/ifeomaaaa/kim-x-beats-analysis)
 - Scraped over 500 Twitter comments to posts about Kim x Beats by Dre collaboration using tweepy Python
