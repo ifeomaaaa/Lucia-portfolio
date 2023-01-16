@@ -7,7 +7,7 @@ Data science projects
 - Currently at 218 subscribers
 
 
-# [Computer vision]
+# Computer vision
  [Deep learning with Kai](https://github.com/ifeomaaaa/deep-learning-)
 - Analysed image histograms of two images to determine similarity of products
 
