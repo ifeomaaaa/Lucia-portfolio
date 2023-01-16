@@ -1,6 +1,16 @@
 # Lucia-portfolio
 Data science projects
 
+# [Technical analysis newsletter](https://www.linkedin.com/newsletters/marketing-reactions-6955200908058062848/)
+- The aim of this newsletter is to explore social media data and technologies
+- I summarise my data analysis from projects below and give recommendations
+- Currently at 218 subscribers
+
+
+# [Computer vision](https://github.com/ifeomaaaa/deep-learning-)
+- Analysed image histograms of two images to determine similarity of products
+
+
 # [Web application](https://ifeomaaaa-easy-edit-app-main-huhykr.streamlitapp.com/)
 - Scripted a text-to-speech converter in python with a Nigerian localised accent
 - Deployed app on streamlit
